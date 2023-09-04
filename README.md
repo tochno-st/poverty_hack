@@ -10,4 +10,4 @@
 - значение границы бедности (**poverty_line**) в рублях за соответствующий период (квартал, год);
 - уровень бедности (**poverty**) в процентах (например, 9.8) за соответствующий период (квартал, год).
 
-> [Ссылка на Jupyter Notebook]()
+> [Ссылка на Jupyter Notebook](https://github.com/tochno-st/poverty_hack/blob/main/count_poverty.ipynb)
