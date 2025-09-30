@@ -1,1 +1,7 @@
 .idea/
+
+# Data files
+*.csv
+*.xls
+*.xlsx
+*.rar
